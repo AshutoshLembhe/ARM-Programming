@@ -1,0 +1,2 @@
+Dependencies for Project 'first', Target 'Target 1': (DO NOT MODIFY !)
+F (.\8BIT.asm)(0x5F8AA427)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "G:\mICRO VISION 4\ARM\RV31\INC"-I "G:\mICRO VISION 4\ARM\CMSIS\Include"-I "G:\mICRO VISION 4\ARM\Inc\Philips"--list .\8bit.lst --xref -o .\8bit.o --depend .\8bit.d)
